@@ -21,6 +21,11 @@ The motivation behind this project is to understand patterns in mass mobilizatio
 - Hypothesis testing to explore the correlation between protest count and state violence
 - Visualizations to represent findings and patterns
 
+## Tableau public link
+
+
+https://public.tableau.com/views/MassMobilizationProjectAbelIronHack_Complete/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
 ## Code Example
 
 
@@ -34,7 +39,4 @@ print(f"Spearman correlation coefficient: {correlation}")
 print(f"P-value: {p_value}")
 
 
-## Tableau public link
 
-
-https://public.tableau.com/views/MassMobilizationProjectAbelIronHack_Complete/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
