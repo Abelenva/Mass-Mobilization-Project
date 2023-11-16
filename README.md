@@ -26,7 +26,8 @@ The motivation behind this project is to understand patterns in mass mobilizatio
 
 https://public.tableau.com/views/MassMobilizationProjectAbelIronHack_Complete/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
-##Link to the data set
+
+## Link to the data
 
 https://dataverse.harvard.edu/file.xhtml?fileId=4291456&datasetVersionId=334304
 
